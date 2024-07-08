@@ -3,33 +3,42 @@ import json
 
 # URL for the web service, should be similar to:
 # 'http://8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io/score'
-scoring_uri = 'http://133e014f-3534-459e-8cfe-48273e919282.westeurope.azurecontainer.io/score'
+scoring_uri = 'http://3f1c250e-0584-4078-a38c-42db42d8bbef.southcentralus.azurecontainer.io/score'
 # If the service is authenticated, set the key or token
-key = 'GqMh4YuhZcTXStlLLGmRlmJTP8V8U367'
+key = '20b9fGG2IZz2d8C8Y33L9bvb4AcT75i4'
 
 # Two sets of data to score, so we get two results back
-data = {"data":
-        [
-          {
-            "age": 30,
-            "job": "unemployed",
-            "marital": "married",
-            "education": "primary",
-            "default": "no",
-            "balance": 1787,
-            "housing": "yes",
-            "loan": "yes",
-            "contact": "cellular",
-            "day": 19,
-            "month": "may",
-            "duration": 79,
-            "campaign": 1,
-            "pdays": 330,
-            "previous": 1,
-            "poutcome": "failure",
-          }
-      ]
-    }
+data = {
+  "Inputs": {
+    "data": [
+      {
+        "age": 0,
+        "job": "example_value",
+        "marital": "example_value",
+        "education": "example_value",
+        "default": "example_value",
+        "housing": "example_value",
+        "loan": "example_value",
+        "contact": "example_value",
+        "month": "example_value",
+        "day_of_week": "example_value",
+        "duration": 0,
+        "campaign": 0,
+        "pdays": 0,
+        "previous": 0,
+        "poutcome": "example_value",
+        "emp.var.rate": 0,
+        "cons.price.idx": 0,
+        "cons.conf.idx": 0,
+        "euribor3m": 0,
+        "nr.employed": 0
+      }
+    ]
+  },
+  "GlobalParameters": {
+    "method": "predict"
+  }
+}
 # Convert to JSON string
 input_data = json.dumps(data)
 with open("data.json", "w") as _f:
