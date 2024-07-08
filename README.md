@@ -58,14 +58,10 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
 
 ### Screenshots of the `RunDetails` widget
-## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/69c39d66-d023-4ae3-9cd5-20a2d1bc84c7)
 
 ### Screenshot of the best model trained with it's parameters.
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/b699262d-88a1-45c3-9a64-67278e2a1ff3)
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
