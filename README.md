@@ -1,6 +1,9 @@
 # Operationalizing Machine Learning
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+This project on Microsoft Azure demonstrates an end-to-end machine learning deployment using the Bank Marketing Dataset. Initially, the dataset was registered in Azure Machine Learning Studio. AutoML was then employed to train various models on this dataset. 
 
+The best performing model from the AutoML run was deployed and can be consumed via REST endpoints. 
+
+Furthermore, automation was achieved by creating and publishing a pipeline using the Python SDK within a Jupyter Notebook environment. This pipeline streamlined the entire workflow from data preparation through to model training and deployment.
 
 ## Architectural Diagram
 
@@ -60,8 +63,14 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 ### Screenshots of the `RunDetails` widget
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/7d800a74-c40b-4506-ba47-971b77460b24)
 
+
 ### Screenshot of the best model trained with it's parameters.
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/b699262d-88a1-45c3-9a64-67278e2a1ff3)
 
 ## Screen Recording
 https://www.youtube.com/watch?v=OMyNuI0wpNM
+
+### Future work
+Future enhancements for the project include
+- Integrating a trigger as soon as there is a change in the dataset or new data arrives in blobstore. 
+- Utilizing Apache Benchmark for performance optimization.
