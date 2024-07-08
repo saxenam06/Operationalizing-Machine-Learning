@@ -40,15 +40,13 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 
 
 ### Pipeline Created
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/6de937b0-ccb2-4e47-a4e9-59abea656496)
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/459e4061-6074-4d50-b9de-232a59ee2878)
 
 ### Pipeline EndPoint
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/a160002d-7c01-4ae7-9e80-ef39d75738fa)
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/a90e07d6-b586-4cf1-9689-e3c0923c81b3)
 
 ### Pipeline Published with REST Endpoint
-![Uploading image.png…]()
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/a90e07d6-b586-4cf1-9689-e3c0923c81b3)
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
