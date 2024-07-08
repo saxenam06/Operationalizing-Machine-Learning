@@ -19,8 +19,10 @@ Deploy the model using Azure Container instance so that other webservices can in
 
 ### Application Insights
 Enable Application Insights using the python logs.py in GitBash and retrieve logs from the deployed service. 
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/d336fba5-15cd-4674-8915-cdf5d6e48fe4)
 
 ### Logs
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/167cdb12-6367-438a-acbe-c76034ddf0dc)
 
 ### Swagger response
 
