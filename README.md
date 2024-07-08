@@ -58,7 +58,7 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
 
 ### Screenshots of the `RunDetails` widget
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/69c39d66-d023-4ae3-9cd5-20a2d1bc84c7)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/7d800a74-c40b-4506-ba47-971b77460b24)
 
 ### Screenshot of the best model trained with it's parameters.
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/b699262d-88a1-45c3-9a64-67278e2a1ff3)
