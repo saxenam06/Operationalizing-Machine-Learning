@@ -38,6 +38,7 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 
 
 ### Pipeline Created
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/6de937b0-ccb2-4e47-a4e9-59abea656496)
 
 ### Pipeline EndPoint
 
