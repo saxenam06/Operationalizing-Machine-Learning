@@ -26,6 +26,13 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 
 ### Swagger response
 
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/afcfa207-37f5-4788-9eb8-beddf312373f)
+
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/43bc95a0-489d-44a2-9287-4ee5ce628e4a)
+
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/01bcef19-5265-40cf-9684-517b782c91d0)
+
+
 ### Pipeline Created
 
 ### Pipeline EndPoint
