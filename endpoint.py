@@ -3,57 +3,31 @@ import json
 
 # URL for the web service, should be similar to:
 # 'http://8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io/score'
-scoring_uri = ''
+scoring_uri = 'http://133e014f-3534-459e-8cfe-48273e919282.westeurope.azurecontainer.io/score'
 # If the service is authenticated, set the key or token
-key = ''
+key = 'GqMh4YuhZcTXStlLLGmRlmJTP8V8U367'
 
 # Two sets of data to score, so we get two results back
 data = {"data":
         [
           {
-            "age": 17,
-            "campaign": 1,
-            "cons.conf.idx": -46.2,
-            "cons.price.idx": 92.893,
-            "contact": "cellular",
-            "day_of_week": "mon",
-            "default": "no",
-            "duration": 971,
-            "education": "university.degree",
-            "emp.var.rate": -1.8,
-            "euribor3m": 1.299,
-            "housing": "yes",
-            "job": "blue-collar",
-            "loan": "yes",
+            "age": 30,
+            "job": "unemployed",
             "marital": "married",
-            "month": "may",
-            "nr.employed": 5099.1,
-            "pdays": 999,
-            "poutcome": "failure",
-            "previous": 1
-          },
-          {
-            "age": 87,
-            "campaign": 1,
-            "cons.conf.idx": -46.2,
-            "cons.price.idx": 92.893,
-            "contact": "cellular",
-            "day_of_week": "mon",
+            "education": "primary",
             "default": "no",
-            "duration": 471,
-            "education": "university.degree",
-            "emp.var.rate": -1.8,
-            "euribor3m": 1.299,
+            "balance": 1787,
             "housing": "yes",
-            "job": "blue-collar",
             "loan": "yes",
-            "marital": "married",
+            "contact": "cellular",
+            "day": 19,
             "month": "may",
-            "nr.employed": 5099.1,
-            "pdays": 999,
+            "duration": 79,
+            "campaign": 1,
+            "pdays": 330,
+            "previous": 1,
             "poutcome": "failure",
-            "previous": 1
-          },
+          }
       ]
     }
 # Convert to JSON string
