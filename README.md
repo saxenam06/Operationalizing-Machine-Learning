@@ -17,6 +17,9 @@
 
 ### Best Model
 
+### Application Insights
+
+### logs
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
 ## Screen Recording
