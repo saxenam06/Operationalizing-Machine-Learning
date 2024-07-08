@@ -22,22 +22,22 @@ Deploy the model using Azure Container instance so that other webservices can in
 
 ### Application Insights
 Enable Application Insights using the python logs.py in GitBash and retrieve logs from the deployed service. 
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/d336fba5-15cd-4674-8915-cdf5d6e48fe4)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/889c8cfe-338f-4e25-adfc-0c2a75156550)
 
 ### Logs
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/167cdb12-6367-438a-acbe-c76034ddf0dc)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/c79efb88-1f94-4cb0-a183-0aebddddbf32)
 
 ### Swagger response
 *TODO:* Write an overview to your project.
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/9eec3072-3ace-4b9e-973c-70038ac44ba3)
 
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/afcfa207-37f5-4788-9eb8-beddf312373f)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/fd94c093-8ebd-404d-85ca-640b9986db1d)
 
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/43bc95a0-489d-44a2-9287-4ee5ce628e4a)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/faf6f2e1-fa16-4a32-96fb-29880c144281)
 
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/01bcef19-5265-40cf-9684-517b782c91d0)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/c4252d64-99f3-447a-8b39-e8b916ea308d)
 
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/1271b783-5b73-4bed-89c1-3fce832c03ba)
-
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/dfef8271-0811-41d1-8512-7e64c8194613)
 
 ### Pipeline Created
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/459e4061-6074-4d50-b9de-232a59ee2878)
