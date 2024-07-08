@@ -64,4 +64,4 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/b699262d-88a1-45c3-9a64-67278e2a1ff3)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://www.youtube.com/watch?v=OMyNuI0wpNM
