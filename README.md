@@ -7,8 +7,9 @@
 ## Key Steps
 
 ### Dataset
+Following dataset was used and was uploaded n Azure ML studio so that it can be used by the next AutoML job. 
 https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/1165d818-d992-446a-90ac-bcf2c942bb09)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/51d3ac6f-309e-4ec8-b68c-843c20ebb326)
 
 ### Experiment completed
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/6671f990-4ab3-4fc9-95c5-965830904059)
@@ -25,7 +26,6 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 
 ### Logs
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/167cdb12-6367-438a-acbe-c76034ddf0dc)
-# Your Project Title Here
 
 ### Swagger response
 *TODO:* Write an overview to your project.
@@ -35,6 +35,7 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/43bc95a0-489d-44a2-9287-4ee5ce628e4a)
 
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/01bcef19-5265-40cf-9684-517b782c91d0)
+
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/1271b783-5b73-4bed-89c1-3fce832c03ba)
 
 
