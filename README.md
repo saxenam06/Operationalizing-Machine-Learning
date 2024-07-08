@@ -34,6 +34,7 @@ Enable Application Insights using the python logs.py in GitBash and retrieve log
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/43bc95a0-489d-44a2-9287-4ee5ce628e4a)
 
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/01bcef19-5265-40cf-9684-517b782c91d0)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/1271b783-5b73-4bed-89c1-3fce832c03ba)
 
 
 ### Pipeline Created
