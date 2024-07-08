@@ -12,10 +12,10 @@ https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-da
 ![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/51d3ac6f-309e-4ec8-b68c-843c20ebb326)
 
 ### Experiment completed
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/6671f990-4ab3-4fc9-95c5-965830904059)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/560feb81-53d0-4259-b3c5-b95ef0d4b620)
 
 ### Best Model
-![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/0618eb6e-aa66-4798-86f6-96891bb1b747)
+![image](https://github.com/saxenam06/Operationalizing-Machine-Learning/assets/83720464/65d1de7c-7926-4119-b7da-3a6fca62f2ff)
 
 ### Deploy the model
 Deploy the model using Azure Container instance so that other webservices can interact with the endpoint. Enable authentication so that keys are generated for authentication of other webservices
